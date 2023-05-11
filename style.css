@@ -1,0 +1,18 @@
+.logo{
+    width: 50%;
+}
+.icon-svg{
+    width: 25px;
+}
+.svg{
+    width: 25px;
+}
+.chip .active{
+    background-color: black;
+}
+.chip{
+    background-color: rgb(235, 230, 230);
+    border-radius: 20px;
+    padding: 3px;
+}
+
